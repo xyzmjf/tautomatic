@@ -4,7 +4,7 @@ Facile exploration and assessment of chemical tautomer space.
 In the world of chemical structure data management, the concept of tautomerism is one that represents a significant challenge to automation and to unambiguous data management. If you are not familiar with the concept then Wikipedia offers a helpful starting point:
 https://en.wikipedia.org/wiki/Tautomer
 
-In essence chemical compounds contain mobile protons, which can ‘hop’ from between different heavy atom positions, changing the chemical sructure ‘drawing’ and also the bond orders. The question of which tautomer is ‘correct’ can often only be answered by experimentation, using methods such as NMR spectroscopy. However computational methods can often be well correlated with experiment, and do offer a systematic approach to addressing the issues. 
+In essence chemical compounds contain mobile protons, which can ‘hop’ from between different heavy atom positions, changing the chemical structure ‘drawing’ and also the bond orders. The question of which tautomer is ‘correct’ can often only be answered by experimentation, using methods such as NMR spectroscopy. However computational methods can often be well correlated with experiment, and do offer a systematic approach to addressing the issues. 
 
 Here we introduce some utility code known as ‘Tautomatic’. This then supports the combination of some pre-existing open source tools  to provide a facile workflow for tautomer exploration and scoring. The existing tools that are combined are as follows: 
 
