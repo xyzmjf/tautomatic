@@ -20,7 +20,7 @@ https://jcheminf.biomedcentral.com/articles/10.1186/1758-2946-3-33
 
 This is used for convenient file format manipulation.
 
-[3] the density functional tight binding code (xtb) created by Grimme and co-workers and deseibed here:
+[3] the density functional tight binding code (xtb) created by Grimme and co-workers and described here:
 
 https://pubs.acs.org/doi/full/10.1021/acs.jctc.8b01176
 
