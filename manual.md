@@ -123,11 +123,11 @@ structure based modelling for drug design.
 
 **[3]** Comparison with some literature. 
 
-The calculation of the relative energies of uracil tautomers by quantum mechanics is a subject that has been previously studied in the scientific literature, over a number of years. A thorough review cannot be performed here. However, we can make a comparison to the recent work of Szatylowicz publsihed in 2022.
+The calculation of the relative energies of uracil tautomers by quantum mechanics is a subject that has been previously studied in the scientific literature, over a number of years. A thorough review cannot be performed here. However, we can make a comparison to the recent work of Szatylowicz published in 2022.
  
 https://www.mdpi.com/1420-3049/27/21/7240
 
-This paper is open access so can be readily studied. These authors utilise density functional calculations with the B97-D3/aug-cc-pVDZ method and the Gaussian-16 code. In Figure 1 they report the four most stable tautomers denoted u1,u2,u3,u4. These correspond to the structures uracil_6, uracil_4, uracil_5 and uracil_7 (or uracil_3 or uracil as these are identical) described here. Hence most stable structures found here, and indeed their energy ordering are consistent with. Note that these authors do not report a structure corresponding to uracil_9 which here has slightly lower energy than uracil_7. However the latter structure does possess different rotameric forms which can perturb the energy, and that complexity is not considered here.  
+This paper is open access so can be readily studied. These authors utilise density functional calculations with the B97-D3/aug-cc-pVDZ method and the Gaussian-16 code. In Figure 1 they report the four most stable tautomers denoted u1,u2,u3,u4. These correspond to the structures uracil_6, uracil_4, uracil_5 and uracil_7 (or uracil_3 or uracil as these are identical) described here. Hence most stable structures found here, and indeed their energy ordering are consistent with this previously published work. Note that these authors do not report a structure corresponding to uracil_9, which here has slightly lower energy than uracil_7. However the latter structure does possess different rotameric forms which can perturb the energy, and that complexity is not considered here.  
 
 **[4]** Scoring tautomers in solvent
 The xtb code provides tools to compute relative molecular energies in implicit solvent.
