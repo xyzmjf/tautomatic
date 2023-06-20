@@ -26,4 +26,4 @@ https://pubs.acs.org/doi/full/10.1021/acs.jctc.8b01176
 
 This is used for re-scoring of the enumerated tautomers, in vacuo or in simulated solvents.
 
-The two python language scripts that constitute the tautomatic code call these binaries using operating system calls. It is essential to have the correct mamba / conda environment running, and that the binary files called are available in the path. The which command (see the manual) is valuable for trouble shooting these aspects of your configuration.  
+Please now refer to the manual for installation and usage information. 
