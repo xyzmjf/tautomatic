@@ -49,7 +49,9 @@ From here on we assume you have a working java environment available.
 	git clone https://github.com/xyzmjf/tautomatic.git
 ```	
 **[6]** Finish tidying up – move to directory ready to run scripts. 
+```
 	cd tautomatic
+```
 Ensure you have a link to the jar file in this directory (example)
 ```
  	ln -s ../ambit-tautomers-2.0.0-SNAPSHOT.jar .
