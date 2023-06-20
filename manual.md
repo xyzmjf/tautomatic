@@ -40,7 +40,7 @@ From here on we assume that this jar file, or a link to it, is present in the di
 ```
 If no java run time is present then install one using a command such as 
 ```
-sudo apt-get install openjdk-19-jre
+	sudo apt-get install openjdk-19-jre
 ```
 From here on we assume you have a working java environment available. 
 
