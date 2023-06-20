@@ -121,7 +121,10 @@ It may be possible to remove these duplicates in a future software update.
 It is remarkable that such a small structure with just 8 heavy atoms can lead
 to a significant number of tautomeric forms. This leads to many complications
 in areas such as storing chemical structures in databases, or indeed in 
-structure based modelling for drug design. 
+structure based modelling for drug design. Again we emphasise that deducing the 'correct'
+tautomer may only be resolved by experimentation such as NMR and that the 'answer' 
+may be temperature and solvent dependent. However, computation is useful as it is 
+a good proxy for experiments and offers a systematic and easy to apply approach. 
 
 **[3]** Comparison with some literature. 
 
