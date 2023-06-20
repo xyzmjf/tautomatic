@@ -122,6 +122,7 @@ in areas such as storing chemical structures in databases, or indeed in
 structure based modelling for drug design. 
 
 **[3]** Comparison with some literature. 
+
 The calculation of the relative energies of uracil tautomers by quantum mechanics is a subject that has been previously studied in the scientific literature, over a number of years. A thorough review cannot be performed here. However, we can make a comparison to the recent work of Szatylowicz publsihed in 2022.
  
 https://www.mdpi.com/1420-3049/27/21/7240
