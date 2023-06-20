@@ -83,7 +83,7 @@ The output file uracil_tautomers.smi should look like this
 	O=C1N=CCC(O)=N1 uracil_10
 	O=C1N=CCC(=O)N1 uracil_11
 ```
-The first SMILES string represents the input molecule. In total a set of 12 tautomeric forms have been created. Some of these such as uracil_3 and uracil_7 are actually duplicates. If desired these can be removed manually, but they are easily recognised after the scoring step. 
+The first SMILES string represents the input molecule. In total a set of 12 tautomeric forms have been created. Some of these such as uracil_3 and uracil_7 are actually duplicates of the input molecule. If desired these can be removed manually, but they are easily recognised after the scoring step. 
 
 **[2]** Scoring tautomers in vacuo.
 Next we use the xtb code to score the relative energies of these tautomers, in-vacuo, using the density functional tight binding formalism. 
