@@ -1,4 +1,4 @@
-# tautomatic
+# Tautomatic
 Facile exploration and assessment of chemical tautomer space. 
 
 In the world of chemical structure data management, the concept of tautomerism is one that represents a significant challenge to automation and to unambiguous data management. If you are not familiar with the concept then Wikipedia offers a helpful starting point:
