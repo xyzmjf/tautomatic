@@ -44,7 +44,7 @@ If no java run time is present then install one using a command such as
 ```
 From here on we assume you have a working java environment available. 
 
-**[5]** Obtain the tautomatic scripts from Github
+**[5]** Obtain the tautomatic scripts, example input files and documentation from Github
 ```
 	git clone https://github.com/xyzmjf/tautomatic.git
 ```	
