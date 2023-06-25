@@ -112,7 +112,7 @@ for line in file1.readlines():
     os.system(command1)
     # now generate command to run xtb 
     command2="xtb ./"+temp_xyz_filename+" --opt "+solvent_xtb+" > "+temp_xtb_output
-    print("command2=",command2)
+    #print("command2=",command2)
     os.system(command2)
         # extract xtb energy value
     energy_kcal=find_xtb_energy(temp_xtb_output)
