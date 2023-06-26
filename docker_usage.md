@@ -1,5 +1,7 @@
 
-#Using the Docker container for Tautomatic#
+
+
+## Using the Docker container for Tautomatic ##
 
 There is now a Docker image of the tautomatic application which may be 
 a convenient way to facilitate installation and usage. 
