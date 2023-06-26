@@ -26,4 +26,5 @@ https://pubs.acs.org/doi/full/10.1021/acs.jctc.8b01176
 
 This is used for re-scoring of the enumerated tautomers, in vacuo or in simulated solvents.
 
-Please now refer to the manual for installation and usage information. 
+Please now refer to the manual for installation and usage information using the Linux command line.
+If you wish to pul and use a Docker container for the tautomatic application - see the docker_usage documentation. 
