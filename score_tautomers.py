@@ -78,7 +78,7 @@ filename=sys.argv[1]
 solvent_xtb=''
 if (len(sys.argv)==3):
     solvent=sys.argv[2]
-    print("solvent=",solvent)   
+    #print("solvent=",solvent)   
     solvent_xtb=" --alpb "+solvent
 #sys.exit(1) 
 
