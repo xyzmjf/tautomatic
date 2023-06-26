@@ -77,7 +77,7 @@ cat uracil_scores.txt
 
 Exit the tautomatic user and exit the container by using the exit command multiple times.
 
-Check if the container is still running.
+back on the host machine, check if the container is still running.
 ```
 docker ps
 CONTAINER ID   IMAGE          COMMAND       CREATED          STATUS          PORTS     NAMES
