@@ -56,7 +56,8 @@ Activate base environment
 bash
 ```
 
-This then gives a new shell with base environment active 
+This then gives a new shell with base environment active.
+Change directory ready to run the tautomatic scripts.
 
 ```
 cd ./tautomatic 
