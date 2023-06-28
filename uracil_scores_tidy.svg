@@ -1,0 +1,302 @@
+<?xml version="1.0"?>
+<svg version="1.1" id="topsvg"
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:cml="http://www.xml-cml.org/schema" x="0" y="0" width="100%" height="100%" viewBox="0 0 100 75">
+<title>Multiple Molecules - Open Babel Depiction</title>
+<rect x="0" y="0" width="100" height="75" fill="white"/>
+<g transform="translate(0,0)">
+<svg width="25" height="25" x="0" y="0" viewBox="0 0 183.923 200"
+font-family="sans-serif" stroke="rgb(0,0,0)" stroke-width="2"  stroke-linecap="round">
+<line x1="74.6" y1="147.0" x2="74.6" y2="120.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="109.3" y1="60.0" x2="132.7" y2="46.5" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="40.0" y1="60.0" x2="74.6" y2="40.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="74.6" y1="40.0" x2="109.3" y2="60.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="76.2" y1="49.2" x2="100.5" y2="63.2" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="109.3" y1="60.0" x2="109.3" y2="87.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="97.9" y1="106.6" x2="74.6" y2="120.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="92.5" y1="101.4" x2="76.2" y2="110.8" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="74.6" y1="120.0" x2="51.3" y2="106.5" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="40.0" y1="86.8" x2="40.0" y2="60.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="47.2" y1="84.8" x2="47.2" y2="66.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<text x="68.641016" y="168.000000" fill="rgb(255,12,12)" stroke-width="0" font-weight="bold" font-size="16" >OH</text>
+<text x="34.000000" y="108.000000" fill="rgb(12,12,255)" stroke-width="0" font-weight="bold" font-size="16" >N</text>
+<text x="137.923048" y="48.000000" fill="rgb(255,12,12)" stroke-width="0" font-weight="bold" font-size="16" >OH</text>
+<text x="103.282032" y="108.000000" fill="rgb(12,12,255)" stroke-width="0" font-weight="bold" font-size="16" >N</text>
+</svg>
+</g>
+<text text-anchor="middle" font-size="1.500000" fill ="black" font-family="sans-serif"
+x="12.500000" y="24.333333" >uracil	14.66</text>
+<g transform="translate(25.000000,0.000000)">
+<svg width="25.000000" height="25.000000" x="0" y="0" viewBox="0 0 183.923048 200.000000"
+font-family="sans-serif" stroke="rgb(0,0,0)" stroke-width="2.000000"  stroke-linecap="round">
+<line x1="106.3" y1="147.0" x2="106.3" y2="120.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="112.3" y1="147.0" x2="112.3" y2="120.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="74.6" y1="60.0" x2="51.3" y2="46.5" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="74.6" y1="60.0" x2="98.0" y2="46.5" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="120.5" y1="46.5" x2="143.9" y2="60.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="143.9" y1="60.0" x2="143.9" y2="100.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="136.7" y1="66.0" x2="136.7" y2="94.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="143.9" y1="100.0" x2="109.3" y2="120.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="109.3" y1="120.0" x2="85.9" y2="106.5" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="74.6" y1="86.8" x2="74.6" y2="60.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="81.8" y1="84.8" x2="81.8" y2="66.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<text x="103.282032" y="168.000000" fill="rgb(255,12,12)" stroke-width="0" font-weight="bold" font-size="16" >O</text>
+<text x="68.641016" y="108.000000" fill="rgb(12,12,255)" stroke-width="0" font-weight="bold" font-size="16" >N</text>
+<text x="22.000000" y="48.000000" fill="rgb(255,12,12)" stroke-width="0" font-weight="bold" font-size="16" >HO</text>
+<text x="103.282032" y="48.000000" fill="rgb(12,12,255)" stroke-width="0" font-weight="bold" font-size="16" >N</text>
+<text x="103.282032" y="32.000000" fill="rgb(12,12,255)" stroke-width="0" font-weight="bold" font-size="16" >H</text>
+</svg>
+</g>
+<text text-anchor="middle" font-size="1.500000" fill ="black" font-family="sans-serif"
+x="37.500000" y="24.333333" >uracil_2	16.48</text>
+<g transform="translate(50.000000,0.000000)">
+<svg width="25.000000" height="25.000000" x="0" y="0" viewBox="0 0 183.923048 200.000000"
+font-family="sans-serif" stroke="rgb(0,0,0)" stroke-width="2.000000"  stroke-linecap="round">
+<line x1="74.6" y1="147.0" x2="74.6" y2="120.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="109.3" y1="60.0" x2="132.7" y2="46.5" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="40.0" y1="60.0" x2="74.6" y2="40.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="74.6" y1="40.0" x2="109.3" y2="60.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="76.2" y1="49.2" x2="100.5" y2="63.2" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="109.3" y1="60.0" x2="109.3" y2="87.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="97.9" y1="106.6" x2="74.6" y2="120.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="92.5" y1="101.4" x2="76.2" y2="110.8" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="74.6" y1="120.0" x2="51.3" y2="106.5" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="40.0" y1="86.8" x2="40.0" y2="60.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="47.2" y1="84.8" x2="47.2" y2="66.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<text x="68.641016" y="168.000000" fill="rgb(255,12,12)" stroke-width="0" font-weight="bold" font-size="16" >OH</text>
+<text x="34.000000" y="108.000000" fill="rgb(12,12,255)" stroke-width="0" font-weight="bold" font-size="16" >N</text>
+<text x="137.923048" y="48.000000" fill="rgb(255,12,12)" stroke-width="0" font-weight="bold" font-size="16" >OH</text>
+<text x="103.282032" y="108.000000" fill="rgb(12,12,255)" stroke-width="0" font-weight="bold" font-size="16" >N</text>
+</svg>
+</g>
+<text text-anchor="middle" font-size="1.500000" fill ="black" font-family="sans-serif"
+x="62.500000" y="24.333333" >uracil_3	14.66</text>
+<g transform="translate(75.000000,0.000000)">
+<svg width="25.000000" height="25.000000" x="0" y="0" viewBox="0 0 183.923048 200.000000"
+font-family="sans-serif" stroke="rgb(0,0,0)" stroke-width="2.000000"  stroke-linecap="round">
+<line x1="71.6" y1="147.0" x2="71.6" y2="120.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="77.6" y1="147.0" x2="77.6" y2="120.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="109.3" y1="60.0" x2="132.7" y2="46.5" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="40.0" y1="60.0" x2="63.4" y2="46.5" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="86.1" y1="46.6" x2="109.3" y2="60.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="84.2" y1="53.8" x2="100.5" y2="63.2" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="109.3" y1="60.0" x2="109.3" y2="87.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="98.0" y1="106.5" x2="74.6" y2="120.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="74.6" y1="120.0" x2="40.0" y2="100.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="40.0" y1="100.0" x2="40.0" y2="60.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="47.2" y1="94.0" x2="47.2" y2="66.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<text x="68.641016" y="168.000000" fill="rgb(255,12,12)" stroke-width="0" font-weight="bold" font-size="16" >O</text>
+<text x="68.641016" y="48.000000" fill="rgb(12,12,255)" stroke-width="0" font-weight="bold" font-size="16" >N</text>
+<text x="137.923048" y="48.000000" fill="rgb(255,12,12)" stroke-width="0" font-weight="bold" font-size="16" >OH</text>
+<text x="103.282032" y="108.000000" fill="rgb(12,12,255)" stroke-width="0" font-weight="bold" font-size="16" >NH</text>
+</svg>
+</g>
+<text text-anchor="middle" font-size="1.500000" fill ="black" font-family="sans-serif"
+x="87.500000" y="24.333333" >uracil_4	7.65</text>
+<g transform="translate(0.000000,25.000000)">
+<svg width="25.000000" height="25.000000" x="0" y="0" viewBox="0 0 183.923048 200.000000"
+font-family="sans-serif" stroke="rgb(0,0,0)" stroke-width="2.000000"  stroke-linecap="round">
+<line x1="106.3" y1="147.0" x2="106.3" y2="120.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="112.3" y1="147.0" x2="112.3" y2="120.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="74.6" y1="60.0" x2="51.3" y2="46.5" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="74.6" y1="60.0" x2="109.3" y2="40.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="109.3" y1="40.0" x2="143.9" y2="60.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="110.9" y1="49.2" x2="135.1" y2="63.2" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="143.9" y1="60.0" x2="143.9" y2="87.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="132.7" y1="106.5" x2="109.3" y2="120.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="109.3" y1="120.0" x2="85.9" y2="106.5" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="74.6" y1="86.8" x2="74.6" y2="60.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="81.8" y1="84.8" x2="81.8" y2="66.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<text x="103.282032" y="168.000000" fill="rgb(255,12,12)" stroke-width="0" font-weight="bold" font-size="16" >O</text>
+<text x="68.641016" y="108.000000" fill="rgb(12,12,255)" stroke-width="0" font-weight="bold" font-size="16" >N</text>
+<text x="22.000000" y="48.000000" fill="rgb(255,12,12)" stroke-width="0" font-weight="bold" font-size="16" >HO</text>
+<text x="137.923048" y="108.000000" fill="rgb(12,12,255)" stroke-width="0" font-weight="bold" font-size="16" >NH</text>
+</svg>
+</g>
+<text text-anchor="middle" font-size="1.500000" fill ="black" font-family="sans-serif"
+x="12.500000" y="49.333333" >uracil_5	8.07</text>
+<g transform="translate(25.000000,25.000000)">
+<svg width="25.000000" height="25.000000" x="0" y="0" viewBox="0 0 183.923048 200.000000"
+font-family="sans-serif" stroke="rgb(0,0,0)" stroke-width="2.000000"  stroke-linecap="round">
+<line x1="71.6" y1="147.0" x2="71.6" y2="120.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="77.6" y1="147.0" x2="77.6" y2="120.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="107.8" y1="57.4" x2="131.2" y2="43.9" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="110.8" y1="62.6" x2="134.2" y2="49.1" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="40.0" y1="60.0" x2="63.4" y2="46.5" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="85.9" y1="46.5" x2="109.3" y2="60.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="109.3" y1="60.0" x2="109.3" y2="87.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="98.0" y1="106.5" x2="74.6" y2="120.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="74.6" y1="120.0" x2="40.0" y2="100.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="40.0" y1="100.0" x2="40.0" y2="60.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="47.2" y1="94.0" x2="47.2" y2="66.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<text x="68.641016" y="168.000000" fill="rgb(255,12,12)" stroke-width="0" font-weight="bold" font-size="16" >O</text>
+<text x="68.641016" y="48.000000" fill="rgb(12,12,255)" stroke-width="0" font-weight="bold" font-size="16" >N</text>
+<text x="68.641016" y="32.000000" fill="rgb(12,12,255)" stroke-width="0" font-weight="bold" font-size="16" >H</text>
+<text x="137.923048" y="48.000000" fill="rgb(255,12,12)" stroke-width="0" font-weight="bold" font-size="16" >O</text>
+<text x="103.282032" y="108.000000" fill="rgb(12,12,255)" stroke-width="0" font-weight="bold" font-size="16" >NH</text>
+</svg>
+</g>
+<text text-anchor="middle" font-size="1.500000" fill ="black" font-family="sans-serif"
+x="37.500000" y="49.333333" >uracil_6	0.0</text>
+<g transform="translate(50.000000,25.000000)">
+<svg width="25.000000" height="25.000000" x="0" y="0" viewBox="0 0 183.923048 200.000000"
+font-family="sans-serif" stroke="rgb(0,0,0)" stroke-width="2.000000"  stroke-linecap="round">
+<line x1="74.6" y1="147.0" x2="74.6" y2="120.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="109.3" y1="60.0" x2="132.7" y2="46.5" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="40.0" y1="60.0" x2="74.6" y2="40.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="74.6" y1="40.0" x2="109.3" y2="60.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="76.2" y1="49.2" x2="100.5" y2="63.2" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="109.3" y1="60.0" x2="109.3" y2="87.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="97.9" y1="106.6" x2="74.6" y2="120.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="92.5" y1="101.4" x2="76.2" y2="110.8" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="74.6" y1="120.0" x2="51.3" y2="106.5" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="40.0" y1="86.8" x2="40.0" y2="60.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="47.2" y1="84.8" x2="47.2" y2="66.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<text x="68.641016" y="168.000000" fill="rgb(255,12,12)" stroke-width="0" font-weight="bold" font-size="16" >OH</text>
+<text x="34.000000" y="108.000000" fill="rgb(12,12,255)" stroke-width="0" font-weight="bold" font-size="16" >N</text>
+<text x="137.923048" y="48.000000" fill="rgb(255,12,12)" stroke-width="0" font-weight="bold" font-size="16" >OH</text>
+<text x="103.282032" y="108.000000" fill="rgb(12,12,255)" stroke-width="0" font-weight="bold" font-size="16" >N</text>
+</svg>
+</g>
+<text text-anchor="middle" font-size="1.500000" fill ="black" font-family="sans-serif"
+x="62.500000" y="49.333333" >uracil_7	14.66</text>
+<g transform="translate(75.000000,25.000000)">
+<svg width="25.000000" height="25.000000" x="0" y="0" viewBox="0 0 183.923048 200.000000"
+font-family="sans-serif" stroke="rgb(0,0,0)" stroke-width="2.000000"  stroke-linecap="round">
+<line x1="106.3" y1="147.0" x2="106.3" y2="120.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="112.3" y1="147.0" x2="112.3" y2="120.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="74.6" y1="60.0" x2="51.3" y2="46.5" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="74.6" y1="60.0" x2="98.0" y2="46.5" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="120.7" y1="46.6" x2="143.9" y2="60.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="118.8" y1="53.8" x2="135.1" y2="63.2" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="143.9" y1="60.0" x2="143.9" y2="100.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="143.9" y1="100.0" x2="109.3" y2="120.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="109.3" y1="120.0" x2="85.9" y2="106.5" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="74.6" y1="86.8" x2="74.6" y2="60.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="81.8" y1="84.8" x2="81.8" y2="66.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<text x="103.282032" y="168.000000" fill="rgb(255,12,12)" stroke-width="0" font-weight="bold" font-size="16" >O</text>
+<text x="68.641016" y="108.000000" fill="rgb(12,12,255)" stroke-width="0" font-weight="bold" font-size="16" >N</text>
+<text x="22.000000" y="48.000000" fill="rgb(255,12,12)" stroke-width="0" font-weight="bold" font-size="16" >HO</text>
+<text x="103.282032" y="48.000000" fill="rgb(12,12,255)" stroke-width="0" font-weight="bold" font-size="16" >N</text>
+</svg>
+</g>
+<text text-anchor="middle" font-size="1.500000" fill ="black" font-family="sans-serif"
+x="87.500000" y="49.333333" >uracil_8	31.39</text>
+<g transform="translate(0.000000,50.000000)">
+<svg width="25.000000" height="25.000000" x="0" y="0" viewBox="0 0 183.923048 200.000000"
+font-family="sans-serif" stroke="rgb(0,0,0)" stroke-width="2.000000"  stroke-linecap="round">
+<line x1="71.6" y1="147.0" x2="71.6" y2="120.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="77.6" y1="147.0" x2="77.6" y2="120.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="109.3" y1="60.0" x2="132.7" y2="46.5" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="40.0" y1="60.0" x2="74.6" y2="40.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="74.6" y1="40.0" x2="109.3" y2="60.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="76.2" y1="49.2" x2="100.5" y2="63.2" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="109.3" y1="60.0" x2="109.3" y2="87.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="98.0" y1="106.5" x2="74.6" y2="120.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="74.6" y1="120.0" x2="51.3" y2="106.5" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="40.0" y1="86.8" x2="40.0" y2="60.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="47.2" y1="84.8" x2="47.2" y2="66.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<text x="68.641016" y="168.000000" fill="rgb(255,12,12)" stroke-width="0" font-weight="bold" font-size="16" >O</text>
+<text x="34.000000" y="108.000000" fill="rgb(12,12,255)" stroke-width="0" font-weight="bold" font-size="16" >N</text>
+<text x="137.923048" y="48.000000" fill="rgb(255,12,12)" stroke-width="0" font-weight="bold" font-size="16" >OH</text>
+<text x="103.282032" y="108.000000" fill="rgb(12,12,255)" stroke-width="0" font-weight="bold" font-size="16" >NH</text>
+</svg>
+</g>
+<text text-anchor="middle" font-size="1.500000" fill ="black" font-family="sans-serif"
+x="12.500000" y="74.333333" >uracil_9	14.23</text>
+<g transform="translate(25.000000,50.000000)">
+<svg width="25.000000" height="25.000000" x="0" y="0" viewBox="0 0 183.923048 200.000000"
+font-family="sans-serif" stroke="rgb(0,0,0)" stroke-width="2.000000"  stroke-linecap="round">
+<line x1="71.6" y1="147.0" x2="71.6" y2="120.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="77.6" y1="147.0" x2="77.6" y2="120.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="109.3" y1="60.0" x2="132.7" y2="46.5" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="40.0" y1="60.0" x2="74.6" y2="40.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="74.6" y1="40.0" x2="109.3" y2="60.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="109.3" y1="60.0" x2="109.3" y2="86.8" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="102.1" y1="66.0" x2="102.1" y2="84.8" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="98.0" y1="106.5" x2="74.6" y2="120.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="74.6" y1="120.0" x2="51.3" y2="106.5" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="40.0" y1="86.8" x2="40.0" y2="60.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="47.2" y1="84.8" x2="47.2" y2="66.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<text x="68.641016" y="168.000000" fill="rgb(255,12,12)" stroke-width="0" font-weight="bold" font-size="16" >O</text>
+<text x="34.000000" y="108.000000" fill="rgb(12,12,255)" stroke-width="0" font-weight="bold" font-size="16" >N</text>
+<text x="137.923048" y="48.000000" fill="rgb(255,12,12)" stroke-width="0" font-weight="bold" font-size="16" >OH</text>
+<text x="103.282032" y="108.000000" fill="rgb(12,12,255)" stroke-width="0" font-weight="bold" font-size="16" >N</text>
+</svg>
+</g>
+<text text-anchor="middle" font-size="1.500000" fill ="black" font-family="sans-serif"
+x="37.500000" y="74.333333" >uracil_10	38.86</text>
+<g transform="translate(50.000000,50.000000)">
+<svg width="25.000000" height="25.000000" x="0" y="0" viewBox="0 0 183.923048 200.000000"
+font-family="sans-serif" stroke="rgb(0,0,0)" stroke-width="2.000000"  stroke-linecap="round">
+<line x1="71.6" y1="147.0" x2="71.6" y2="120.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="77.6" y1="147.0" x2="77.6" y2="120.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="107.8" y1="57.4" x2="131.2" y2="43.9" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="110.8" y1="62.6" x2="134.2" y2="49.1" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="40.0" y1="60.0" x2="74.6" y2="40.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="74.6" y1="40.0" x2="109.3" y2="60.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="109.3" y1="60.0" x2="109.3" y2="87.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="98.0" y1="106.5" x2="74.6" y2="120.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="74.6" y1="120.0" x2="51.3" y2="106.5" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="40.0" y1="86.8" x2="40.0" y2="60.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<line x1="47.2" y1="84.8" x2="47.2" y2="66.0" opacity="1.0" stroke="rgb(0,0,0)"  stroke-width="2.0"/>
+<text x="68.641016" y="168.000000" fill="rgb(255,12,12)" stroke-width="0" font-weight="bold" font-size="16" >O</text>
+<text x="34.000000" y="108.000000" fill="rgb(12,12,255)" stroke-width="0" font-weight="bold" font-size="16" >N</text>
+<text x="137.923048" y="48.000000" fill="rgb(255,12,12)" stroke-width="0" font-weight="bold" font-size="16" >O</text>
+<text x="103.282032" y="108.000000" fill="rgb(12,12,255)" stroke-width="0" font-weight="bold" font-size="16" >NH</text>
+</svg>
+</g>
+<text text-anchor="middle" font-size="1.500000" fill ="black" font-family="sans-serif"
+x="62.500000" y="74.333333" >uracil_11	17.5</text>
+<script type="text/ecmascript">
+  <![CDATA[
+    var svgEl = document.getElementById("topsvg");
+    svgEl.addEventListener('DOMMouseScroll', wheel, false);
+    svgEl.addEventListener('mousewheel', wheel, false);
+    var startx=0;
+    var starty=0;
+    function wheel(evt){
+      evt = evt ? evt : window.event;
+      var normal = evt.detail ? evt.detail * -1 : evt.wheelDelta / 40;
+      var vb = new Array(4);
+      var vbtext = svgEl.getAttributeNS(null,"viewBox");
+      vb = vbtext.split(" ");
+      var zoom = (normal<0)? 1.41 : 0.71;
+      //var dwidth = parseFloat(Math.max(vb[2],vb[3])) * (1-zoom);
+      vb[0] = parseFloat(vb[0]) + parseFloat(vb[2])*(1-zoom) * evt.clientX/innerWidth;
+      vb[1] = parseFloat(vb[1]) + parseFloat(vb[3])*(1-zoom) * evt.clientY/innerHeight;
+      vb[2] = parseFloat(vb[2]) * zoom;
+      vb[3] = parseFloat(vb[3]) * zoom;
+      svgEl.setAttributeNS(null, "viewBox", vb.join(" "));
+      if (evt.preventDefault)
+        evt.preventDefault(); // Don't scroll the page when zooming
+    }
+   svgEl.onmousedown = function(evt) {
+      startx = evt.clientX;
+      starty = evt.clientY;
+    }
+    svgEl.onmousemove=function(evt) {
+      if(startx!=0 && starty!=0 
+        && ((evt.clientX - startx)*(evt.clientX - startx)+(evt.clientY - starty)*(evt.clientY - starty)>100))
+      {
+        var vbtext = svgEl.getAttributeNS(null,"viewBox");
+        vb = vbtext.split(" ");
+        var maxwh = Math.max(parseFloat(vb[2]),parseFloat(vb[3]));
+        vb[0] = parseFloat(vb[0]) - (evt.clientX - startx)*maxwh/innerWidth;
+        vb[1] = parseFloat(vb[1]) - (evt.clientY - starty)*maxwh/innerHeight;
+        svgEl.setAttributeNS(null, "viewBox", vb.join(" "));
+        startx = evt.clientX;
+        starty = evt.clientY;
+      }
+    } 
+    svgEl.onmouseup=function() {
+      startx=0;
+      starty=0;
+    }
+    svgEl.ondblclick=function() {
+      location.reload();
+    }
+  ]]>
+</script>
+
+</svg>
