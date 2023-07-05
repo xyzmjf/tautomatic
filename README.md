@@ -23,10 +23,10 @@ This is used for convenient file format manipulation.
 [3] the density functional tight binding code (xtb) created by Grimme and co-workers and described here:
 
 https://pubs.acs.org/doi/full/10.1021/acs.jctc.8b01176
-
+Oc1nccc(O)n1 uracil
 This is used for re-scoring of the enumerated tautomers, in vacuo or in simulated solvents.
 
-There are several ways to utilise the code.
+There are now several ways to utilise the code.
 
 * Simple command line usage, run separate scripts to (1) Enumerate tautomers (2) Rescore using xtb.
   This allows implicit solvent such as water, DMSO etc to be specified. (3) Find relative scores (as opposed to absolute scores).
