@@ -8,8 +8,8 @@ Here we describe how to set up and run the code on the examples provided. All of
 
 **[1]** Create Python environment called tautomatic, then activate that environment
 ```
-	mamba create --name tautomatic 
-	mamba activate tautomatic
+	mamba create --name tautomatic-env1 
+	mamba activate tautomatic-env1
 ```
 **[2]** Install needed tools into the environment	
 ```
@@ -32,6 +32,7 @@ This then allows a browser based execution of tautomer enumeration, scoring and 
 
 
 From here on we assume that the environment has been activated before trying to use the tools. 
+
 
 **[3]** Download the ambit tautomers java jar file from the sourceforge URL.
 
@@ -61,12 +62,14 @@ From here on we assume you have a working java environment available.
 	cd tautomatic
 ```
 Ensure you have a link to the jar file in this directory (example)
+
 ```
  	ln -s ../ambit-tautomers-2.0.0-SNAPSHOT.jar .
 ```
+Depending on your distribution and download method this file might originally be in your home directory (called ~) 
+or in the downloads directory (called ~/Downloads). Just find it and make the links as described above.
 
-
-**Running the code**
+**Running the code - separate scripts**
 
 The first of the tautomatic scripts uses the underlying Ambit tautomer code to enumerate a number of possible tautomers for the molecule Uracil. The input file is a ‘one liner’ containing the SMILES string and a convenient name for the molecule, in a file called uracil.smi. The file contants are as shown below:
 ```
