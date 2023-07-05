@@ -20,8 +20,14 @@ Here we describe how to set up and run the code on the examples provided. All of
 	=> indicates path to obabel executable 
 
 	which xtb 
-	=> indicates path to xtb executable. 
+	=> indicates path to xtb executable.
+
+	mamba install -c anaconda flask
+
 ```
+The Flask library is optional, but it allows a simple web API / application to be created.
+This then allows a browser based execution of tautomer enumeration, scoring and image generation.
+
 
 From here on we assume that the environment has been activated before trying to use the tools. 
 
