@@ -19,9 +19,9 @@ def index():
 
 #
 # To enable tatutomatic related tools and flask use 
-#       conda activate tautomatic 
+#       conda activate tautomatic-env1 
 #	NB This environment has openbabel, xtb and flask installed 
-# To set up flask set envieonment variables as follows in the shell
+# To set up flask set environment variables as follows in the shell
 #       export FLASK_APP=flask_tautomers
 #       export FLASK_ENV=development
 # Then start Flask application with 
