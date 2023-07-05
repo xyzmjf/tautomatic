@@ -32,7 +32,7 @@ There are several ways to utilise the code.
   This allows implicit solvent such as water, DMSO etc to be specified. (3) Find relative scores (as opposed to absolute scores).
 * Run a Python Flask application, which runs a simple web server on the local machine on port 5000. Paste Smiles and Molecule name into the appropriate URL.
   This generates an SVG image of the tautomer structures and relative scores.
-* Download a Docker container that has the code and required dependencies (Flask lacking - to updated soon)
+* Download a Docker container from Docker Hub, this has the code and required dependencies already installed (Flask lacking - to be updated soon)
   You can then start a shell inside the container and execute the code there. 
 
 Please now refer to the manual for installation and usage information using the Linux command line and Flask application.
