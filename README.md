@@ -28,8 +28,9 @@ This is used for re-scoring of the enumerated tautomers, in vacuo or in simulate
 
 There are several ways to utilise the code.
 
-* Simple command line usage, run 
-
+* Simple command line usage, run separate scripts to (1) Enumerate tautomers (2) Rescore using xtb (3) Find relative scores
+* Run a simple Python Flask application, which runs on the local machine on port 5000. Paste Smiles and Molecule name into the appropriate URL.
+  This generates an SVG image of the tautomer structures and relative scores.
 
 Please now refer to the manual for installation and usage information using the Linux command line.
 If you wish to obtain and use a Docker container for the tautomatic application - see the docker_usage documentation. 
