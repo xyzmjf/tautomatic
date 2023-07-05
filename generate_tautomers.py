@@ -58,7 +58,8 @@ file2.write("SMILES,name\n")
 for line in file1.readlines():
 	# print line
     ##print ("line=",line)
-    list1=line.split(" ")
+    # split with no arguments splits on white space
+    list1=line.split()
     smiles=list1[0]
 # name has carriage return on the end - but that is fine. 
     name=list1[1]
@@ -104,7 +105,13 @@ for line in file3.readlines():
 # if line includes phrase Original structure 
 # then use this to find original structure name      
         tokens=line.split(",")
-        if (tokens[0] == 'Original structure'):    
+	#
+	# this string is not ALWAYS at position 0 hence a weak method
+        #if (tokens[0] == 'Original structure'):    
+	#
+	# better to use the find method
+	#
+        if (line.find('Original structure')>=0):
             compoundname=tokens[nameposition]
             #print("compound=",compoundname)
             tautomer_count=1
