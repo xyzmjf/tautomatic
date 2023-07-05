@@ -15,6 +15,7 @@ Here we describe how to set up and run the code on the examples provided. All of
 ```
 	mamba install -c conda-forge openbabel
 	mamba install -c conda-forge xtb
+	mamba install -c anaconda flask
 
 	which obabel 
 	=> indicates path to obabel executable 
@@ -22,7 +23,8 @@ Here we describe how to set up and run the code on the examples provided. All of
 	which xtb 
 	=> indicates path to xtb executable.
 
-	mamba install -c anaconda flask
+	which flask
+	=> indicates path to flask web framework executable
 
 ```
 The Flask library is optional, but it allows a simple web API / application to be created.
