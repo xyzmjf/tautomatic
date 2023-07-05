@@ -28,7 +28,8 @@ This is used for re-scoring of the enumerated tautomers, in vacuo or in simulate
 
 There are several ways to utilise the code.
 
-* Simple command line usage, run separate scripts to (1) Enumerate tautomers (2) Rescore using xtb (3) Find relative scores
+* Simple command line usage, run separate scripts to (1) Enumerate tautomers (2) Rescore using xtb.
+  This allows implicit solvent such as water, DMSO etc to be specified. (3) Find relative scores (as opposed to absolute scores).
 * Run a simple Python Flask application, which runs on the local machine on port 5000. Paste Smiles and Molecule name into the appropriate URL.
   This generates an SVG image of the tautomer structures and relative scores.
 * Download a Docker container that has the code and required dependencies (Flask lacking - to updated soon)
